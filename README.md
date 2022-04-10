@@ -1,7 +1,7 @@
 # Predicting the beautiful game (This task is currently in progress)
 Football Match Probability Prediction
 
-This repro is about the following kaggle challange:
+This repository is about the following kaggle challange:
 https://www.kaggle.com/competitions/football-match-probability-prediction
 
 
