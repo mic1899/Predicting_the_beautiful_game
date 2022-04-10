@@ -1,4 +1,4 @@
-# Predicting_the_beautiful_game (This task is currently in progress)
+# Predicting the beautiful game (This task is currently in progress)
 Football Match Probability Prediction
 
 This repro is about the following kaggle challange:
